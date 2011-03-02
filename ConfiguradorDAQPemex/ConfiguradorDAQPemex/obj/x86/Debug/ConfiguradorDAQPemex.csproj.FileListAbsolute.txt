@@ -1,0 +1,9 @@
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\bin\Debug\ConfiguradorDAQPemex.exe
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\bin\Debug\ConfiguradorDAQPemex.pdb
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\ConfiguradorDAQPemex.Form1.resources
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\ConfiguradorDAQPemex.Properties.Resources.resources
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\ConfiguradorDAQPemex.exe
+I:\VisuaLProyects\ConfiguradorDAQPemex\ConfiguradorDAQPemex\obj\x86\Debug\ConfiguradorDAQPemex.pdb

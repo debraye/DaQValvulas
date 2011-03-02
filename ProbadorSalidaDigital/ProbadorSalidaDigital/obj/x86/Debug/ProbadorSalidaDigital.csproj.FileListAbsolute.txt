@@ -1,0 +1,9 @@
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\bin\Debug\ProbadorSalidaDigital.exe
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\bin\Debug\ProbadorSalidaDigital.pdb
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\ProbadorSalidaDigital.Probador.resources
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\ProbadorSalidaDigital.Properties.Resources.resources
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\ProbadorSalidaDigital.exe
+I:\VisuaLProyects\ProbadorSalidaDigital\ProbadorSalidaDigital\obj\x86\Debug\ProbadorSalidaDigital.pdb

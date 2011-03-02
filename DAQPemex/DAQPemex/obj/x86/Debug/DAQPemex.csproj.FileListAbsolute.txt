@@ -1,0 +1,16 @@
+I:\VisualProyects\DAQPemex\DAQPemex\bin\Debug\DAQPemex.exe.config
+I:\VisualProyects\DAQPemex\DAQPemex\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VisualProyects\DAQPemex\DAQPemex\obj\x86\Debug\DAQPemex.Properties.Resources.resources
+I:\VisualProyects\DAQPemex\DAQPemex\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\VisualProyects\DAQPemex\DAQPemex\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VisualProyects\DAQPemex\DAQPemex\bin\Debug\DAQPemex.exe
+I:\VisualProyects\DAQPemex\DAQPemex\bin\Debug\DAQPemex.pdb
+I:\VisualProyects\DAQPemex\DAQPemex\obj\x86\Debug\DAQPemex.exe
+I:\VisualProyects\DAQPemex\DAQPemex\obj\x86\Debug\DAQPemex.pdb
+I:\VisualProyects\DAQPemex\DAQPemex\bin\Debug\WebCam_Capture.dll
+I:\VisuaLProyects\DAQPemex\DAQPemex\bin\Debug\MccDaq.dll
+I:\VisuaLProyects\DAQPemex\DAQPemex\bin\Debug\MccDaq.xml
+I:\VisuaLProyects\DAQPemex\DAQPemex\obj\x86\Debug\DAQPemex.DAQPemex.resources
+I:\VisualProyects\Pemex\DAQPemex\DAQPemex\bin\Debug\DAQPemex.exe.config
+I:\VisualProyects\Pemex\DAQPemex\DAQPemex\obj\x86\Debug\DAQPemex.exe
+I:\VisualProyects\Pemex\DAQPemex\DAQPemex\obj\x86\Debug\DAQPemex.pdb
